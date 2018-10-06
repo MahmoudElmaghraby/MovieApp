@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="popular">Popular</string>
+    <string name="original_title">original title</string>
+    <string name="overview">Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.</string>
+    <string name="vote_average">vote average</string>
+    <string name="release_date">release date</string>
+    <string name="details_poster_image">details poster image</string>
+    <string name="poster_image">poster image</string>
+    <string name="title">Title</string>
+</resources>
